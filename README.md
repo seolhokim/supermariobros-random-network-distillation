@@ -3,5 +3,6 @@
 ## now implementing...
 
 ### TODO
-- need to make normalization
-- need to make cuda version
+- ~~need to make normalization~~
+- ~~need to make cuda version~~
+- test is needed but, computing power is insufficient.
