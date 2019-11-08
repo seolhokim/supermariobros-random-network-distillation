@@ -1,6 +1,7 @@
 # supermariobros-random-network-distillation
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/seolhokim/supermariobros-random-network-distillation)
 
-## now implementing...
+## Computing Power is needed to test!!
 
 ### TODO
 - ~~need to make normalization~~
